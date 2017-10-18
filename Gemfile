@@ -53,6 +53,8 @@ gem 'blazer'
 gem 'friendly_id'
 gem 'stringex'
 gem 'trix'
+gem 'react_on_rails'
+gem 'webpacker'
 
 # Image uploads
 gem 'shrine'
