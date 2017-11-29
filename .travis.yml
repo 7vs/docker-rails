@@ -9,6 +9,7 @@ env:
   global:
     - POSTGRES_PASSWORD=duubidoo
     - SECRET_KEY_BASE="we-dont-need-a-secret-here"
+    - RAILS_MASTER_KEY=5f8988541260c9df195203f6dae7cac6
     - DB_USER=postgres
     - DB_PASSWORD=duubidoo
     - APP_ADMIN_EMAIL=admin@example.org

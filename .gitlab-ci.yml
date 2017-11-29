@@ -11,6 +11,7 @@ variables:
   AWS_SECRET_ACCESS_KEY: "my-secret"
   AWS_BUCKET: "my-bucket"
   AWS_REGION: "eu-central-1"
+  RAILS_MASTER_KEY: "5f8988541260c9df195203f6dae7cac6"
 
 test:
   before_script:
